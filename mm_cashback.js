@@ -1,3 +1,7 @@
+const startButtonSelector = 'bc-id-start-button';
+const startButtonTextContent = '🤑🔍💵'
+
+
 const overlay = document.createElement('div');
 const form = document.createElement('form');
 overlay.id = 'bc-id-overlay';
